@@ -18,4 +18,4 @@ Many thanks to the following for their contributions:
 * [josephharrington](https://github.com/josephharrington)
 * [MuruganViswanathan](https://github.com/MuruganViswanathan)
 * [Damercy](https://github.com/Damercy)
-* [mgoutham](https://github.com/mgoutham)
+* [mgoutham](https://github.com/mgoutham))
